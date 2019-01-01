@@ -1,7 +1,13 @@
 {
   "name": "Start on Heroku: Laravel 5.7",
-  "description": "A barebones Laravel 5.7",
+  "description": "A barebones Laravel 5.7 app, which can easily be deploy to Heroku.",
   "repository": "https://github.com/narita1980/laravel-getting-started",
   "logo":"https://laravel.com/assets/img/components/logo-laravel.svg",
-  "keywords": ["laravel", "heroku"]
+  "keywords": ["laravel", "heroku"],
+  "env": {
+    "APP_KEY": {
+      "description": "The applicaton key for the Laravel app.",
+      "generator": "secret"
+    }
+  }
 }
