@@ -38,5 +38,4 @@ For more information about using Laravel on Heroku, see these Dev Center article
 - [MemCachier](https://devcenter.heroku.com/articles/memcachier#laravel)
 - [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#connecting-with-laravel)
 - [Stream](https://devcenter.heroku.com/articles/stream#demo-django-rails-and-laravel)
-- [Stream](https://devcenter.heroku.com/articles/stream#demo-django-rails-and-laravel)
 - [Moesif API Insights](https://devcenter.heroku.com/articles/moesif#using-with-php-laravel)
