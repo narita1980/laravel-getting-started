@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: Laravel 5.7",
+  "description": "A barebones Laravel 5.7",
+  "repository": "https://github.com/narita1980/laravel-getting-started",
+  "logo":"https://laravel.com/assets/img/components/logo-laravel.svg",
+  "keywords": ["node", "express", "heroku"]
+}
