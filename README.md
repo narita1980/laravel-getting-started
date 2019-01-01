@@ -28,6 +28,10 @@ $ heroku config:set APP_KEY=$(php artisan --no-ansi key:generate --show)
 $ heroku open
 ```
 
+or
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## Documentation
 
 For more information about using Laravel on Heroku, see these Dev Center articles:
