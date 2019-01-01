@@ -24,11 +24,9 @@ Your app should now be running on [127.0.0.1:8000](http://127.0.0.1:8000).
 ```
 $ heroku create
 $ git push heroku master
+$ heroku config:set APP_KEY=$(php artisan --no-ansi key:generate --show)
 $ heroku open
 ```
-or
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Documentation
 
