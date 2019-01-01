@@ -6,16 +6,18 @@ This application supports the [Getting Started with Laravel on Heroku](https://d
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Composer](https://getcomposer.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
+$ git clone https://github.com/narita1980/laravel-getting-started.git # or clone your own fork
+$ cd laravel-getting-started
+$ composer install
+$ mv .env.example .env
+$ php artisan key:generate
+$ php artisan serve
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Your app should now be running on [127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Deploying to Heroku
 
