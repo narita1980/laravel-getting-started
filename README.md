@@ -1,6 +1,6 @@
 # laravel-getting-started
 
-A barebones Laravel app using [Laravel 5.7](https://laravel.com/).
+A barebones [Laravel 5.7](https://laravel.com/) app.
 
 This application supports the [Getting Started with Laravel on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel) article - check it out.
 
@@ -30,6 +30,13 @@ $ heroku open
 
 ## Documentation
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
+For more information about using Laravel on Heroku, see these Dev Center articles:
 
 - [Getting Started with Laravel on Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel)
+- [Scaling a Laravel Application with Memcache](https://devcenter.heroku.com/articles/laravel-memcache)
+- [PHP Application Logging](https://devcenter.heroku.com/articles/php-logging#laravel)
+- [MemCachier](https://devcenter.heroku.com/articles/memcachier#laravel)
+- [Heroku Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#connecting-with-laravel)
+- [Stream](https://devcenter.heroku.com/articles/stream#demo-django-rails-and-laravel)
+- [Stream](https://devcenter.heroku.com/articles/stream#demo-django-rails-and-laravel)
+- [Moesif API Insights](https://devcenter.heroku.com/articles/moesif#using-with-php-laravel)
